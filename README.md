@@ -11,7 +11,7 @@
 |-------|---------|
 | 🎓 Course | Formal Languages and Automata |
 | 📖 Topic | Lexical Analysis – KMP Algorithm |
-| ✍️ Authors | Samuel Salazar Ospina, [Partner's Name] |
+| ✍️ Author | Samuel Salazar Ospina |
 | 📕 Reference | Aho, Lam, Sethi & Ullman — *Compilers: Principles, Techniques, & Tools* (2nd ed., 2007) |
 
 ---
